@@ -1,0 +1,12 @@
+/bin
+/target
+/.settings
+/.metadata
+*.class
+*.project
+*.classpath
+*.buildpath
+*.db
+*.log
+.externalToolBuilders
+.DS_Store
